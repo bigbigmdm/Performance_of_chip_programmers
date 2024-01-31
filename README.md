@@ -12,7 +12,7 @@ Testing chip: Winbond 25Q32 (4M)
 
 
 | Programmer | Software |  Platform  | Reading |
-| :---         |     :---      |          :--- |          ---: |
+| :---       | :---     |     :---   |   :---: |
 | git status   | git status     | git status    | git status    |
 | git diff     | git diff       | git diff      | git status    |
 | Programmer | Software |
