@@ -18,4 +18,18 @@ Testing chip: Winbond 25Q32 (4M)
 | Ch341a     | SiberiaProg 1.44      | Windows/GUI| 38.4s   |   9.5s  | 175.3s   |   38.4s   | 
 | Ch347a     | ch347-nor-prog        | Linux/CMD  | 1.1s    |   0.1s  |  28.9s   |    1.1s   |
 
+## Programmmer software features
+
+| Programmer | Software               |  Platform  | SPI | I2C | MW | Edit SR | SFDP view |
+| :---       |       :---             |     :---   |:---:|:---:|:---:| :---:  |   :---:   |
+| Ch341a     | IMSProg v1.1.10        | Linux/GUI  | +   | +   | +   |  +     |     +     |
+| Ch341a     | IMSProg table swap     | Linux/GUI  | +   | +   | +   |  +     |     +     |
+| Ch341a     | SNANDer v.1.7.8        | Linux/CMD  | +   |+/-  |+/-  |  -     |     -     |
+| Ch341a     | ch341prog              | Linux/CMD  | +   | -   | -   |  -     |     -     |
+| Ch341a     | CH341a SPI programmer  | Linux/GUI  | +   | -   | -   |  -     |     -     |
+| Ch341a     | flashrom v1.2          | Linux/CMD  | +   | -   | -   |  -     |     -     |
+| Ch341a     | Ch341 Programmer 1.34  | Windows/GUI| +   | +   | -   |  -     |     -     |
+| Ch341a     | NeoProgrammer 2.2.0.10 | Windows/GUI| +   | +   | +   |  -     |     -     |
+| Ch341a     | SiberiaProg 1.44       | Windows/GUI| +   | +   | +   |  +     |     -     |
+| Ch347a     | ch347-nor-prog         | Linux/CMD  | +   | -   | -   |  -     |     -     |
 
