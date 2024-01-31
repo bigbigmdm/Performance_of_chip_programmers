@@ -4,6 +4,13 @@
 
 Tesitng computer: Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz 5GB RAM
 Testing chip: Winbond 25Q32 (4M)
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+
 | Programmer | Software |
 | --- | --- |
 | git status | List all new or modified files |
