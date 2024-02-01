@@ -25,17 +25,16 @@ Testing chip: Winbond 25Q32 (4M)
 
 | Programmer | Software                |  Platform  | SPI | I2C | MW | Edit SR | SFDP view |
 | :---       |       :---              |     :---   |:---:|:---:|:---:| :---:  |   :---:   |
-| Ch341a     | IMSProg v1.1.10         | Linux/GUI  | +   | +   | +   |  +     |     +     |
-| Ch341a     | IMSProg table swap      | Linux/GUI  | +   | +   | +   |  +     |     +     |
-| Ch341a     | SNANDer v.1.7.8         | Linux/CMD  | +   |+/-  |+/-  |  -     |     -     |
-| Ch341a     | ch341prog               | Linux/CMD  | +   | -   | -   |  -     |     -     |
-| Ch341a     | CH341a SPI programmer   | Linux/GUI  | +   | -   | -   |  -     |     -     |
-| Ch341a     | flashrom v1.2           | Linux/CMD  | +   | -   | -   |  -     |     -     |
-| Ch341a     | Ch341 Programmer 1.34   | Windows/GUI| +   | +   | -   |  -     |     -     |
-| Ch341a     | NeoProgrammer 2.2.0.10  | Windows/GUI| +   | +   | +   |  -     |     -     |
-| Ch341a     | SiberiaProg 1.44        | Windows/GUI| +   | +   | +   |  +     |     -     |
-| Ch347a     | ch347-nor-prog          | Linux/CMD  | +   | -   | -   |  -     |     -     |
-| Ch347a     | СH347 HighSpeed pr.v1.40| Windows/GUI| +   | +   | +   |  -     |     -     |
+| Ch341a     | [IMSProg v1.1.10](https://github.com/bigbigmdm/IMSProg)         | Linux/GUI  | +   | +   | +   |  +     |     +     |
+| Ch341a     | [SNANDer v.1.7.8](https://github.com/McMCCRU/SNANDer)         | Linux/CMD  | +   |+/-  |+/-  |  -     |     -     |
+| Ch341a     | [ch341prog](https://github.com/setarcos/ch341prog)               | Linux/CMD  | +   | -   | -   |  -     |     -     |
+| Ch341a     | [CH341a SPI programmer](https://github.com/bigbigmdm/CH341a_spi_programmer)   | Linux/GUI  | +   | -   | -   |  -     |     -     |
+| Ch341a     | [flashrom v1.2](https://flashrom.org/)           | Linux/CMD  | +   | -   | -   |  -     |     -     |
+| Ch341a     | [Ch341 Programmer 1.34](https://github.com/YTEC-info/CH341A-Softwares/blob/main/Programas/Windows/CH341Programmer/CH341Programmer%20V1.38/Ch341Programmer.exe?ysclid=ls2wxkusch126636141)   | Windows/GUI| +   | +   | -   |  -     |     -     |
+| Ch341a     | [NeoProgrammer 2.2.0.10](https://www.dwdvb.com/neoprogrammer-new-update-v2-2-0-10/)  | Windows/GUI| +   | +   | +   |  -     |     -     |
+| Ch341a     | [SiberiaProg 1.44](https://ch341a.com/download/ch341a-siberiaprog-version-1-44)        | Windows/GUI| +   | +   | +   |  +     |     -     |
+| Ch347a     | [ch347-nor-prog](https://github.com/981213/ch347-nor-prog)          | Linux/CMD  | +   | -   | -   |  -     |     -     |
+| Ch347a     | [СH347 HighSpeed pr.v1.40](http://www.yaojiedianzi.com/index.php?m=Product&a=show&id=19)| Windows/GUI| +   | +   | +   |  -     |     -     |
 | EZP2019+   | [EZP2019+ Ver. 2.0](https://github.com/acontini/EZP2019)       | Windows/GUI| +   | +   | +   |  -     |     -     |
 
 
