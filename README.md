@@ -36,6 +36,6 @@ Testing chip: Winbond 25Q32 (4M)
 | Ch341a     | SiberiaProg 1.44        | Windows/GUI| +   | +   | +   |  +     |     -     |
 | Ch347a     | ch347-nor-prog          | Linux/CMD  | +   | -   | -   |  -     |     -     |
 | Ch347a     | СH347 HighSpeed pr.v1.40| Windows/GUI| +   | +   | +   |  -     |     -     |
-| EZP2019+   | (EZP2019+ Ver. 2.0)[https://github.com/acontini/EZP2019]       | Windows/GUI| +   | +   | +   |  -     |     -     |
+| EZP2019+   | [EZP2019+ Ver. 2.0](https://github.com/acontini/EZP2019)       | Windows/GUI| +   | +   | +   |  -     |     -     |
 
 
