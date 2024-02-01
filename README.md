@@ -29,7 +29,7 @@ Testing chip: Winbond 25Q32 (4M)
 | Ch341a     | [SNANDer v.1.7.8](https://github.com/McMCCRU/SNANDer)         | Linux/CMD  | ✔   |+/-  |+/-  |  -     |     -     |  -  | ✔ | - |
 | Ch341a     | [ch341prog](https://github.com/setarcos/ch341prog)               | Linux/CMD  | ✔   | -   | -   |  -     |     -     |  -  | ✔ | - |
 | Ch341a     | [CH341a SPI programmer](https://github.com/bigbigmdm/CH341a_spi_programmer)   | Linux/GUI  | ✔   | -   | -   |  -     |     -     |  -  | ✔ | - |
-| Ch341a     | [flashrom v1.2](https://flashrom.org/)           | Linux/CMD  | ✔   | -   | -   |  -     |     -     |  -  | - | - |
+| Ch341a     | [flashrom v1.2](https://flashrom.org/)           | Linux/CMD  | ✔   | -   | -   |  -     |     -     |  -  | ✔ | - |
 | Ch341a     | [Ch341 Programmer 1.34](https://github.com/YTEC-info/CH341A-Softwares/blob/main/Programas/Windows/CH341Programmer/CH341Programmer%20V1.38/Ch341Programmer.exe?ysclid=ls2wxkusch126636141)   | Windows/GUI| ✔   | ✔   | -   |  -     |     -     |  -  | ✔ | ✔ |
 | Ch341a     | [NeoProgrammer 2.2.0.10](https://www.dwdvb.com/neoprogrammer-new-update-v2-2-0-10/)  | Windows/GUI| ✔   | ✔   | ✔   |  -     |     -     |  -  | ✔ | ✔ |
 | Ch341a     | [SiberiaProg 1.44](https://ch341a.com/download/ch341a-siberiaprog-version-1-44)        | Windows/GUI| ✔   | ✔   | ✔   |  ✔     |     -     |  ✔  | ✔ | ✔ |
