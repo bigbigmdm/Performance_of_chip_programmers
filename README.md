@@ -37,6 +37,8 @@ Testing chip: Winbond 25Q32 (4M)
 | Ch347a     | [СH347 HighSpeed pr.v1.40](http://www.yaojiedianzi.com/index.php?m=Product&a=show&id=19)| Windows/GUI| +   | +   | +   |  -     |     -     |
 | EZP2019+   | [EZP2019+ Ver. 2.0](https://github.com/acontini/EZP2019)       | Windows/GUI| +   | +   | +   |  -     |     -     |
 
-+ - yes.
--  - no.
-+/- - is working, but errors have been detected.
+`+` - yes.
+
+`-`  - no.
+
+`+/-` - is working, but errors have been detected.
