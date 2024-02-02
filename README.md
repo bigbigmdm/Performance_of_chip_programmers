@@ -8,7 +8,7 @@ Testing chip: Winbond 25Q32 (4M)
 
 | Programmer |       Software          |  Platform  | Reading | Erasing |  Writing | Veryfying |
 | :---       |       :---              |     :---   |   :---: |   :---: |   :---:  |   :---:   |
-| Ch341a     | IMSProg v1.1.10         | Linux/GUI  |  33.9s  |  11.4s  |  328.5s  |   33.9s   |
+| Ch341a     | IMSProg v1.1.11         | Linux/GUI  |  33.9s  |  11.4s  |  328.5s  |   33.9s   |
 | Ch341a     | IMSProg table swap      | Linux/GUI  |  33.9s  |  11.4s  | 327.8s   |   33.9s   |
 | Ch341a     | SNANDer v.1.7.8         | Linux/CMD  |  33.0s  |   8.0s  | 327.0s   |   33.0s   |
 | Ch341a     | ch341prog               | Linux/CMD  | 135.3s  |   9.3s  | 359.5s   |  135.3s   |
@@ -25,7 +25,7 @@ Testing chip: Winbond 25Q32 (4M)
 
 | Programmer | Software                |  Platform  | SPI | I2C | MW | Edit SR | SFDP view | Security area view |.bin|.hex|.cap|
 | :---       |       :---              |     :---   |:---:|:---:|:---:| :---:  |   :---:   |   :---:   |:---:|:---:|:---:|
-| Ch341a     | [IMSProg v1.1.10](https://github.com/bigbigmdm/IMSProg)         | Linux/GUI  | ✔   | ✔   | ✔   |  ✔     |     +     |  -  | ✔ | ✔ | - |
+| Ch341a     | [IMSProg v1.1.11](https://github.com/bigbigmdm/IMSProg)         | Linux/GUI  | ✔   | ✔   | ✔   |  ✔     |     +     |  -  | ✔ | ✔ | ✔ |
 | Ch341a     | [SNANDer v.1.7.8](https://github.com/McMCCRU/SNANDer)         | Linux/CMD  | ✔   |+/-  |+/-  |  -     |     -     |  -  | ✔ | - | - |
 | Ch341a     | [ch341prog](https://github.com/setarcos/ch341prog)               | Linux/CMD  | ✔   | -   | -   |  -     |     -     |  -  | ✔ | - | - |
 | Ch341a     | [CH341a SPI programmer](https://github.com/bigbigmdm/CH341a_spi_programmer)   | Linux/GUI  | ✔   | -   | -   |  -     |     -     |  -  | ✔ | - | - |
