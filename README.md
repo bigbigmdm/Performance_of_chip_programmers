@@ -34,9 +34,9 @@ Testing chip: Winbond 25Q32 (4M)
 | CH341A     | [Ch341 Programmer 1.34](https://github.com/YTEC-info/CH341A-Softwares/blob/main/Programas/Windows/CH341Programmer/CH341Programmer%20V1.38/Ch341Programmer.exe?ysclid=ls2wxkusch126636141)   | Windows/GUI| ✔   | ✔   | -   |  -     |     -     |  -  | ✔ | ✔ |
 | CH341A     | [NeoProgrammer 2.2.0.10](https://www.dwdvb.com/neoprogrammer-new-update-v2-2-0-10/)  | Windows/GUI| ✔   | ✔   | ✔   |  ✔      |     -     |  -  | ✔ | ✔ | ✔ | ✔ |
 | CH341A     | [SiberiaProg 1.44](https://ch341a.com/download/ch341a-siberiaprog-version-1-44)        | Windows/GUI| ✔   | ✔   | ✔   |  ✔     |     -     |  ✔  | ✔ | ✔ |
-| CH347T     | [ch347-nor-prog](https://github.com/981213/ch347-nor-prog)          | Linux/CMD  | ✔   | -   | -   |  -     |     -     |  -  | ✔ | - |
+| CH347T     | [ch347-nor-prog](https://github.com/981213/ch347-nor-prog)          | Linux/CMD  | ✔   | -   | -   |  -     |     -     |  -  | ✔ | - | - |
 | CH347T     | [СH347 HighSpeed pr.v1.40](http://www.yaojiedianzi.com/index.php?m=Product&a=show&id=19)| Windows/GUI| ✔   | ✔   | ✔   |  -     |     -     |  -  | ✔ | ✔ |
-| CH347T     | [CH347_GUI_SPI_NOR_Flash_](https://github.com/bigbigmdm/CH347_GUI_SPI_NOR_Flash_programmer))| Linux/GUI| ✔   | -   | -   |  -     |     -     |  -  | - | - |
+| CH347T     | [CH347_GUI_SPI_NOR_Flash_](https://github.com/bigbigmdm/CH347_GUI_SPI_NOR_Flash_programmer)| Linux/GUI| ✔   | -   | -   |  -     |     -     |  -  | ✔ | - | - |
 | EZP2019+   | [EZP2019+ Ver. 2.0](https://github.com/acontini/EZP2019)       | Windows/GUI| ✔   | ✔   | ✔   |  -     |     -     |  -  | ✔ | ✔ | ✔ |
 
 `✔` - yes.
