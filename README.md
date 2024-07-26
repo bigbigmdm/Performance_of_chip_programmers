@@ -17,8 +17,9 @@ Testing chip: Winbond 25Q32 (4M)
 | Ch341a     | Ch341 Programmer 1.34   | Windows/GUI|  36.4s  |   9.0s  | 231.4s   |   36.4s   |
 | Ch341a     | NeoProgrammer 2.2.0.10  | Windows/GUI|  36.7s  |   9.1s  | 220.8s   |   36.7s   | 
 | Ch341a     | SiberiaProg 1.44        | Windows/GUI|  38.4s  |   9.5s  | 175.3s   |   38.4s   | 
-| Ch347a     | ch347-nor-prog          | Linux/CMD  |   1.1s  |   0.1s  |  28.9s   |    1.1s   |
-| Ch347a     | СH347 HighSpeed pr.v1.40| Windows/GUI|   0.7s  |  10.0s  |   8.1s   |    0.7s   |
+| Ch347t     | ch347-nor-prog          | Linux/CMD  |   1.1s  |   0.1s  |  28.9s   |    1.1s   |
+| CH347t     | CH347_GUI_SPI_NOR_Flash_| Linux/GUI  |   1.6s  |   9.9s  |  35.0s   |   13.1s   |
+| Ch347t     | СH347 HighSpeed pr.v1.40| Windows/GUI|   0.7s  |  10.0s  |   8.1s   |    0.7s   |
 | EZP2019+   | EZP2019+ Ver. 2.0       | Windows/GUI|  33.0s  |  10.4s  |  38.7s   |   33.0s   |
 
 ## Programmmer software features
