@@ -52,11 +52,11 @@ Testing chip: Winbond 25Q32 (4M)
 
 **MW** - MicroWire chips 93xxx series.
 
-**Edit SR** - Edit status registers function.
+**Edit SR** - View and edit SPI NOR FLASH status registers function.
 
 **SFDP view** - view Serial Flash Discoverable Parameter register.
 
-**Security area view** - Read/write OTP security registers.
+**Security area view** - Read/write SPI NOR FLASH OTP security registers.
 
 **.bin** - .bin files format support.
 
