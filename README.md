@@ -44,3 +44,22 @@ Testing chip: Winbond 25Q32 (4M)
 `-`  - no.
 
 `+/-` - is working, but errors have been detected.
+
+
+**SPI NOR** - SPI NOR FLASH chips x25xxx series.
+
+**I2C** - I2C chips 24xxx series.
+
+**MW** - MicroWire chips 93xxx series.
+
+**Edit SR** - Edit status registers function.
+
+**SFDP view** - view Serial Flash Discoverable Parameter register.
+
+**Security area view** - Read/write OTP security registers.
+
+**.bin** - .bin files format support.
+
+**.hex** - Intel .hex files format support.
+
+**.cap** - Asus .cap files format support.
