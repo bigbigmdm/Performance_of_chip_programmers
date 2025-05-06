@@ -26,7 +26,7 @@ Testing chip: Winbond 25Q32 (4M)
 
 | Programmer | Software                |  Platform  | SPI NOR| I2C | MW | Edit SR | SFDP view | Security area view |.bin|.hex|.cap|
 | :---       |       :---              |     :---   |:---:|:---:|:---:| :---:  |   :---:   |   :---:   |:---:|:---:|:---:|
-| CH341A     | [IMSProg v1.5.3] (https://github.com/bigbigmdm/IMSProg)         | Linux/GUI  | ✔   | ✔   | ✔   |  ✔     |     ✔    |  ✔  | ✔ | ✔ | ✔ |
+| CH341A     | [IMSProg v1.5.3](https://github.com/bigbigmdm/IMSProg)         | Linux/GUI  | ✔   | ✔   | ✔   |  ✔     |     ✔    |  ✔  | ✔ | ✔ | ✔ |
 | CH341A     | [SNANDer v.1.7.8](https://github.com/McMCCRU/SNANDer)         | Linux/CMD  | ✔   |+/-  |+/-  |  -     |     -     |  -  | ✔ | - | - |
 | CH341A     | [ch341prog](https://github.com/setarcos/ch341prog)               | Linux/CMD  | ✔   | -   | -   |  -     |     -     |  -  | ✔ | - | - |
 | CH341A     | [CH341a SPI programmer](https://github.com/bigbigmdm/CH341a_spi_programmer)   | Linux/GUI  | ✔   | -   | -   |  -     |     -     |  -  | ✔ | - | - |
@@ -36,7 +36,7 @@ Testing chip: Winbond 25Q32 (4M)
 | CH341A     | [SiberiaProg 1.44](https://ch341a.com/download/ch341a-siberiaprog-version-1-44)        | Windows/GUI| ✔   | ✔   | ✔   |  ✔     |     -     |  ✔  | ✔ | ✔ |
 | CH347T     | [ch347-nor-prog](https://github.com/981213/ch347-nor-prog)          | Linux/CMD  | ✔   | -   | -   |  -     |     -     |  -  | ✔ | - | - |
 | CH347T     | [СH347 HighSpeed pr.v1.40](http://www.yaojiedianzi.com/index.php?m=Product&a=show&id=19)| Windows/GUI| ✔   | ✔   | ✔   |  -     |     -     |  -  | ✔ | ✔ |
-| CH347T     | [CH347_GUI_SPI_NOR_Flash_](https://github.com/bigbigmdm/CH347_GUI_SPI_NOR_Flash_programmer)| Linux/GUI| ✔   | -   | -   |  -     |     -     |  -  | ✔ | - | - |
+| CH347T     | [CH347_GUI_SPI_NOR_Flash](https://github.com/bigbigmdm/CH347_GUI_SPI_NOR_Flash_programmer)| Linux/GUI| ✔   | -   | -   |  -     |     -     |  -  | ✔ | - | - |
 | EZP2019+   | [EZP2019+ Ver. 2.0](https://github.com/acontini/EZP2019)       | Windows/GUI| ✔   | ✔   | ✔   |  -     |     -     |  -  | ✔ | ✔ | ✔ |
 
 `✔` - yes.
