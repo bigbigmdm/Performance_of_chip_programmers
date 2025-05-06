@@ -24,7 +24,7 @@ Testing chip: Winbond 25Q32 (4M)
 
 ## Programmmer software features
 
-| Programmer | Software                |  Platform  | SPI NOR| I2C | MW | Edit SR | SFDP view | Security area view |.bin|.hex|.cap|
+| Programmer | Software                |  Platform  | SPI NOR| I2C | MW | Edit SR | SFDP view | Secu-rity area view |.bin|.hex|.cap|
 | :---       |       :---              |     :---   |:---:|:---:|:---:| :---:  |   :---:   |   :---:   |:---:|:---:|:---:|
 | CH341A     | [IMSProg v1.5.3](https://github.com/bigbigmdm/IMSProg)         | Linux/GUI  | ✔   | ✔   | ✔   |  ✔     |     ✔    |  ✔  | ✔ | ✔ | ✔ |
 | CH341A     | [SNANDer v.1.7.8](https://github.com/McMCCRU/SNANDer)         | Linux/CMD  | ✔   |+/-  |+/-  |  -     |     -     |  -  | ✔ | - | - |
