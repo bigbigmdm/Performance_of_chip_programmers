@@ -26,7 +26,7 @@ Testing chip: Winbond 25Q32 (4M)
 
 | Programmer | Software                |  Platform  | SPI NOR| SPI NAND| I2C | MW | Edit SR | SFDP view | Secu-rity area view |.bin|.hex|.cap|
 | :---       |       :---              |     :---   |:---:|:---:|:---:|:---:| :---:  |   :---:   |   :---:   |:---:|:---:|:---:|
-| CH341A     | [IMSProg v1.5.3](https://github.com/bigbigmdm/IMSProg)         | Linux/GUI  | ✔   | -  | ✔   | ✔   |  ✔     |     ✔    |  ✔  | ✔ | ✔ | ✔ |
+| CH341A     | [IMSProg v1.6.1](https://github.com/bigbigmdm/IMSProg)         | Linux/GUI  | ✔   | -  | ✔   | ✔   |  ✔     |     ✔    |  ✔  | ✔ | ✔ | ✔ |
 | CH341A     | [SNANDer v.1.7.8](https://github.com/McMCCRU/SNANDer)         | Linux/CMD  | ✔   | ✔   |+/-  |+/-  |  -     |     -     |  -  | ✔ | - | - |
 | CH341A     | [ch341prog](https://github.com/setarcos/ch341prog)               | Linux/CMD  | ✔   | -  | -   | -   |  -     |     -     |  -  | ✔ | - | - |
 | CH341A     | [CH341a SPI programmer](https://github.com/bigbigmdm/CH341a_spi_programmer)   | Linux/GUI  | ✔   | -  | -   | -   |  -     |     -     |  -  | ✔ | - | - |
