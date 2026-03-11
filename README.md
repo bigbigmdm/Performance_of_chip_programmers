@@ -9,7 +9,7 @@ Testing chip: Winbond 25Q32 (4M)
 | Programmer |       Software          |  Platform  | Reading | Erasing |  Writing | Veryfying |
 | :---       |       :---              |     :---   |   :---: |   :---: |   :---:  |   :---:   |
 | CH341A     | IMSProg v1.7.3          | Linux/GUI  |  33.9s  |  12.7s  | 328.5s   |   33.9s   |
-| CH341A     | IMSProg v1.8.1 beta     | Linux/GUI  |  33.2s  |  12.5s  | 216.4s   |   33.2s   |
+| CH341A     | IMSProg v1.8.1 beta     | Linux/GUI  |  33.2s  |  12.3s  | 216.4s   |   33.2s   |
 | CH341A     | IMSProg table swap      | Linux/GUI  |  33.9s  |  11.4s  | 322.9s   |   33.9s   |
 | CH341A     | SNANDer v.1.7.8         | Linux/CMD  |  33.0s  |   8.0s  | 327.0s   |   33.0s   |
 | CH341A     | ch341prog               | Linux/CMD  | 135.3s  |   9.3s  | 359.5s   |  135.3s   |
@@ -20,7 +20,7 @@ Testing chip: Winbond 25Q32 (4M)
 | CH341A     | SiberiaProg 1.44        | Windows/GUI|  38.4s  |   9.5s  | 175.3s   |   38.4s   | 
 | CH347T     | ch347-nor-prog          | Linux/CMD  |   1.1s  |   0.1s  |  28.9s   |    1.1s   |
 | CH347T     | CH347_GUI_SPI_NOR_Flash_| Linux/GUI  |   1.6s  |   9.9s  |  35.0s   |   13.1s   |
-| CH347T     | IMSProg v1.8.1 beta     | Linux/GUI  |   1.7s  |  13.2s  |  43.4s   |    1.7s   |
+| CH347T     | IMSProg v1.8.1 beta     | Linux/GUI  |   1.7s  |  11.4s  |  43.4s   |    1.7s   |
 | CH347T     | СH347 HighSpeed pr.v1.40| Windows/GUI|   0.7s  |  10.0s  |   8.1s   |    0.7s   |
 | EZP2019+   | EZP2019+ Ver. 2.0       | Windows/GUI|  33.0s  |  10.4s  |  38.7s   |   33.0s   |
 
