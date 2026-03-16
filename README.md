@@ -8,7 +8,7 @@ Testing chip: Winbond 25Q32 (4M)
 
 | Programmer |       Software          |  Platform  | Reading | Erasing |  Writing | Veryfying |
 | :---       |       :---              |     :---   |   :---: |   :---: |   :---:  |   :---:   |
-| CH341A     | IMSProg v1.7.3          | Linux/GUI  |  33.9s  |  12.7s  | 328.5s   |   33.9s   |
+| CH341A / CH347T    | IMSProg v1.7.3          | Linux/GUI  |  33.9s  |  12.7s  | 328.5s   |   33.9s   |
 | CH341A     | IMSProg v1.8.1          | Linux/GUI  |  33.2s  |  12.3s  | 216.4s   |   33.2s   |
 | CH341A     | IMSProg table swap      | Linux/GUI  |  33.9s  |  11.4s  | 322.9s   |   33.9s   |
 | CH341A     | SNANDer v.1.7.8         | Linux/CMD  |  33.0s  |   8.0s  | 327.0s   |   33.0s   |
